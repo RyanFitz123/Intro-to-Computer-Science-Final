@@ -1,4 +1,4 @@
-## Turn-Based Fighting Game Displayed Through Text
+# Turn-Based Fighting Game Displayed Through Text
 
 This is a turn-based fighting game displayed through text created in Python.
 It plays similarly to traditional RPG combat systems.
