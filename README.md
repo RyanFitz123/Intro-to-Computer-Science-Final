@@ -1,4 +1,4 @@
-This is a turn-based fighting game displayed through text.
+This is a turn-based fighting game displayed through text created in Python.
 It plays similarly to traditional RPG combat systems.
 You play against a computer opponent. 
 There are 3 different characters in total each with 2 different moves and an ultimate move. 
